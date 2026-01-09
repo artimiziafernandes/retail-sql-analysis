@@ -1,0 +1,11 @@
+store_id,store_name,city,opened_date
+1,Store_1,Delhi,2018-01-01
+2,Store_2,Bangalore,2018-01-02
+3,Store_3,Chennai,2018-01-03
+4,Store_4,Delhi,2018-01-04
+5,Store_5,Delhi,2018-01-05
+6,Store_6,Mumbai,2018-01-06
+7,Store_7,Chennai,2018-01-07
+8,Store_8,Bangalore,2018-01-08
+9,Store_9,Chennai,2018-01-09
+10,Store_10,Pune,2018-01-10
