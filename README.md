@@ -1,4 +1,3 @@
-
 # Retail SQL Analysis Project
 
 ## 📌 Project Overview
@@ -26,7 +25,7 @@ This project analyzes retail sales data using PostgreSQL to derive business insi
 
 ## 📂 Files
 - `retail_analysis.sql` → All SQL queries
-- `data/` → Input CSV files (customers, sales, products, returns)
+- `data/` → Input CSV files (customers, sales, products, stores)
 
 ## 🚀 How to Run
 1. Create tables using PostgreSQL
